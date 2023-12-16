@@ -1,12 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m  currently studying computer engineering at Shahid Beheshti University
-- 🌱 I’m an experienced person in the field of Java and Spring framework
-- 👯 And now I'm learning and practicing with Django framework
+
 
 <!--
 **MMChizari/MMChizari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🔭 I’m  currently studying computer engineering at Shahid Beheshti University
+- 🌱 I’m an experienced person in the field of Java and Spring framework
+- 👯 And now I'm learning and practicing with Django framework
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
